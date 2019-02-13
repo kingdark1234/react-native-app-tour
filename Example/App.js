@@ -14,7 +14,7 @@ import {
   DeviceEventEmitter
 } from 'react-native';
 import Main from './components/Main.compoment';
-import { AppTour, AppTourSequence, AppTourView } from 'wcchimiiz-show-case-v2'
+import { AppTour, AppTourSequence, AppTourView } from 'onsensei-react-native-app-tour'
 
 export default class App extends Component {
 

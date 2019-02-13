@@ -7,8 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1E3E5D2020932AF40042E3CF /* SukhumvitSet-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1E3E5D1E20932AF40042E3CF /* SukhumvitSet-Medium.ttf */; };
-		1E3E5D2120932AF40042E3CF /* SukhumvitSet-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1E3E5D1F20932AF40042E3CF /* SukhumvitSet-Bold.ttf */; };
+		04CCA87422140E9900CF8D21 /* SukhumvitSet-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04CCA86D22140E9900CF8D21 /* SukhumvitSet-Light.ttf */; };
+		04CCA87522140E9900CF8D21 /* SukhumvitSet-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04CCA86E22140E9900CF8D21 /* SukhumvitSet-Bold.ttf */; };
+		04CCA87622140E9900CF8D21 /* SukhumvitSet-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04CCA86F22140E9900CF8D21 /* SukhumvitSet-Thin.ttf */; };
+		04CCA87722140E9900CF8D21 /* SukhumvitSet-Text.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04CCA87022140E9900CF8D21 /* SukhumvitSet-Text.ttf */; };
+		04CCA87822140E9900CF8D21 /* SukhumvitSet-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04CCA87122140E9900CF8D21 /* SukhumvitSet-Medium.ttf */; };
+		04CCA87922140E9900CF8D21 /* iservice.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04CCA87222140E9900CF8D21 /* iservice.ttf */; };
+		04CCA87A22140E9900CF8D21 /* SukhumvitSet-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04CCA87322140E9900CF8D21 /* SukhumvitSet-SemiBold.ttf */; };
 		7533A2011FBDE68C00F72AD2 /* MaterialShowcaseInstructionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7533A2001FBDE68C00F72AD2 /* MaterialShowcaseInstructionView.swift */; };
 		7533A2031FBDE9A100F72AD2 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7533A2021FBDE9A100F72AD2 /* Utility.swift */; };
 		7533A2051FBDF26500F72AD2 /* MaterialShowcase+Calculations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7533A2041FBDF26500F72AD2 /* MaterialShowcase+Calculations.swift */; };
@@ -18,8 +23,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1E3E5D1E20932AF40042E3CF /* SukhumvitSet-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SukhumvitSet-Medium.ttf"; path = "fonts/SukhumvitSet-Medium.ttf"; sourceTree = SOURCE_ROOT; };
-		1E3E5D1F20932AF40042E3CF /* SukhumvitSet-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SukhumvitSet-Bold.ttf"; path = "fonts/SukhumvitSet-Bold.ttf"; sourceTree = SOURCE_ROOT; };
+		04CCA86D22140E9900CF8D21 /* SukhumvitSet-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SukhumvitSet-Light.ttf"; sourceTree = "<group>"; };
+		04CCA86E22140E9900CF8D21 /* SukhumvitSet-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SukhumvitSet-Bold.ttf"; sourceTree = "<group>"; };
+		04CCA86F22140E9900CF8D21 /* SukhumvitSet-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SukhumvitSet-Thin.ttf"; sourceTree = "<group>"; };
+		04CCA87022140E9900CF8D21 /* SukhumvitSet-Text.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SukhumvitSet-Text.ttf"; sourceTree = "<group>"; };
+		04CCA87122140E9900CF8D21 /* SukhumvitSet-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SukhumvitSet-Medium.ttf"; sourceTree = "<group>"; };
+		04CCA87222140E9900CF8D21 /* iservice.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = iservice.ttf; sourceTree = "<group>"; };
+		04CCA87322140E9900CF8D21 /* SukhumvitSet-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SukhumvitSet-SemiBold.ttf"; sourceTree = "<group>"; };
 		7533A2001FBDE68C00F72AD2 /* MaterialShowcaseInstructionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialShowcaseInstructionView.swift; sourceTree = "<group>"; };
 		7533A2021FBDE9A100F72AD2 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
 		7533A2041FBDF26500F72AD2 /* MaterialShowcase+Calculations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MaterialShowcase+Calculations.swift"; sourceTree = "<group>"; };
@@ -41,14 +51,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1E3E5D1D20932AE40042E3CF /* fonts */ = {
+		04CCA86C22140E9900CF8D21 /* fonts */ = {
 			isa = PBXGroup;
 			children = (
-				1E3E5D1F20932AF40042E3CF /* SukhumvitSet-Bold.ttf */,
-				1E3E5D1E20932AF40042E3CF /* SukhumvitSet-Medium.ttf */,
+				04CCA86D22140E9900CF8D21 /* SukhumvitSet-Light.ttf */,
+				04CCA86E22140E9900CF8D21 /* SukhumvitSet-Bold.ttf */,
+				04CCA86F22140E9900CF8D21 /* SukhumvitSet-Thin.ttf */,
+				04CCA87022140E9900CF8D21 /* SukhumvitSet-Text.ttf */,
+				04CCA87122140E9900CF8D21 /* SukhumvitSet-Medium.ttf */,
+				04CCA87222140E9900CF8D21 /* iservice.ttf */,
+				04CCA87322140E9900CF8D21 /* SukhumvitSet-SemiBold.ttf */,
 			);
 			path = fonts;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		CE083A0F1EBACFEB0077666F = {
 			isa = PBXGroup;
@@ -69,7 +84,7 @@
 		CE083A1B1EBACFEB0077666F /* MaterialShowcase */ = {
 			isa = PBXGroup;
 			children = (
-				1E3E5D1D20932AE40042E3CF /* fonts */,
+				04CCA86C22140E9900CF8D21 /* fonts */,
 				CE083A1C1EBACFEB0077666F /* MaterialShowcase.h */,
 				CE083A1D1EBACFEB0077666F /* Info.plist */,
 				CE083A241EBAD0020077666F /* MaterialShowcase.swift */,
@@ -152,8 +167,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1E3E5D2020932AF40042E3CF /* SukhumvitSet-Medium.ttf in Resources */,
-				1E3E5D2120932AF40042E3CF /* SukhumvitSet-Bold.ttf in Resources */,
+				04CCA87422140E9900CF8D21 /* SukhumvitSet-Light.ttf in Resources */,
+				04CCA87622140E9900CF8D21 /* SukhumvitSet-Thin.ttf in Resources */,
+				04CCA87922140E9900CF8D21 /* iservice.ttf in Resources */,
+				04CCA87522140E9900CF8D21 /* SukhumvitSet-Bold.ttf in Resources */,
+				04CCA87722140E9900CF8D21 /* SukhumvitSet-Text.ttf in Resources */,
+				04CCA87822140E9900CF8D21 /* SukhumvitSet-Medium.ttf in Resources */,
+				04CCA87A22140E9900CF8D21 /* SukhumvitSet-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

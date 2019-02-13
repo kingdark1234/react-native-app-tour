@@ -1,6 +1,6 @@
 {
-  "name": "wcchimiiz-show-case-v2",
-  "version": "1.6.2",
+  "name": "onsensei-react-native-app-tour",
+  "version": "1.6.3",
   "description": "",
   "main": "RNAppTour.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WCChimiiz/react-native-app-tour.git"
+    "url": "git+https://github.com/onsensei/react-native-app-tour.git"
   },
-  "author": "Wiwat Patanaprasitchai",
+  "author": "Thanaphat Suwannikornkul",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WCChimiiz/react-native-app-tour/issues"
+    "url": "https://github.com/onsensei/react-native-app-tour/issues"
   },
-  "homepage": "https://github.com/WCChimiiz/react-native-app-tour#readme"
+  "homepage": "https://github.com/onsensei/react-native-app-tour#readme"
 }

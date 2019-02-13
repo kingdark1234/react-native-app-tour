@@ -7,7 +7,7 @@ import {
   TouchableHighlight
 } from 'react-native';
 
-import { AppTour, AppTourView } from 'wcchimiiz-show-case-v2';
+import { AppTour, AppTourView } from 'onsensei-react-native-app-tour';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +

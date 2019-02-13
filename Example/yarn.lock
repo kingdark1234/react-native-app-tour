@@ -3911,6 +3911,11 @@ onetime@^2.0.0:
   dependencies:
     mimic-fn "^1.0.0"
 
+onsensei-react-native-app-tour@^1.6.3:
+  version "1.6.3"
+  resolved "https://registry.yarnpkg.com/onsensei-react-native-app-tour/-/onsensei-react-native-app-tour-1.6.3.tgz#53a4cb5e9f0e9856ea1ebd6a0cb4c5227b6b11e6"
+  integrity sha512-zvFhTnTs4FG12hx5aovIsrsfpCmh++sHMjKRirzuNvNRsDoB0zmq2HKJe4ldO0gqJNrAWpE6wRk41Cm4LrRLUw==
+
 opn@^3.0.2:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/opn/-/opn-3.0.3.tgz#b6d99e7399f78d65c3baaffef1fb288e9b85243a"
@@ -5239,10 +5244,6 @@ watch@~0.18.0:
   dependencies:
     exec-sh "^0.2.0"
     minimist "^1.2.0"
-
-wcchimiiz-show-case-v2@^1.2.7:
-  version "1.2.7"
-  resolved "https://registry.yarnpkg.com/wcchimiiz-show-case-v2/-/wcchimiiz-show-case-v2-1.2.7.tgz#aedd7d762eec20ca5a956f501d43df1490ade8ce"
 
 webidl-conversions@^4.0.1, webidl-conversions@^4.0.2:
   version "4.0.2"
